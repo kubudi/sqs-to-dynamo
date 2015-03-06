@@ -1,0 +1,12 @@
+*.class
+*.log
+.*
+
+!.gitignore
+!.travis.yml
+
+# sbt specific
+dist/*
+target/
+project/boot/
+project/plugins/project/
